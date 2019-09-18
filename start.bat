@@ -1,1 +1,0 @@
-yii init/hq
