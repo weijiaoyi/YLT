@@ -1,0 +1,198 @@
+2018-07-03 17:44:52 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:45:03 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:46:59 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:47:00 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:47:01 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:47:17 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:09 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:10 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:10 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:10 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:11 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:11 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:11 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:11 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:11 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:11 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:12 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:54:12 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:33 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:34 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:35 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:35 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:35 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:35 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:36 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:37 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:58:37 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:59:19 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:59:20 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:59:20 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:59:20 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 17:59:21 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}
+2018-07-03 18:02:17 [GET][http://localhost:86/api/web/][::1][-][-][error][yii\web\HttpException:404] exception 'yii\web\NotFoundHttpException' with message '页面未找到。' in D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Request.php:189
+Stack trace:
+#0 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\web\Application.php(75): yii\web\Request->resolve()
+#1 D:\phpStudy\PHPROOT\dqh.ooole.cn\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 D:\phpStudy\PHPROOT\dqh.ooole.cn\api\web\index.php(18): yii\base\Application->run()
+#3 {main}

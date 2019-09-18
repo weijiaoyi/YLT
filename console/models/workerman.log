@@ -1,0 +1,176 @@
+2018-12-29 16:12:37 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'common\models\Product' not found in D:\www\qihuo1\console\models\Workerman\webSocket.php on line 41"
+2018-12-29 16:16:38 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'common\models\Product' not found in D:\www\qihuo1\console\models\Workerman\webSocket.php on line 42"
+2018-12-29 16:25:36 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'common\models\Product' not found in D:\www\qihuo1\console\models\WebSocket.php on line 43"
+2018-12-29 16:49:06 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'common\models\Product' not found in D:\www\qihuo1\console\models\Workerman\webSocket.php on line 44"
+2018-12-29 16:49:29 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'common\models\Product' not found in D:\www\qihuo1\console\models\Workerman\webSocket.php on line 44"
+2019-01-01 17:05:28 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'common\models\Product' not found in D:\www\qihuo1\console\models\Workerman\webSocket.php on line 44"
+2019-01-01 17:16:31 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(49): error(8, 'Undefined prope...', 'D:\\www\\qihuo1\\c...', 49, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(96): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:16:31 pid:1 Worker process terminated
+2019-01-01 17:17:23 pid:1 Worker process terminated
+2019-01-01 17:31:30 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(47): error(8, 'Undefined prope...', 'D:\\www\\qihuo1\\c...', 47, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(101): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:31:30 pid:1 Worker process terminated
+2019-01-01 17:32:51 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(48): error(8, 'Undefined prope...', 'D:\\www\\qihuo1\\c...', 48, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(102): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:32:51 pid:1 Worker process terminated
+2019-01-01 17:33:47 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(48): error(8, 'Undefined prope...', 'D:\\www\\qihuo1\\c...', 48, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(102): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:33:47 pid:1 Worker process terminated
+2019-01-01 17:36:10 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(48): error(8, 'Undefined index...', 'D:\\www\\qihuo1\\c...', 48, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(102): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:36:10 pid:1 Worker process terminated
+2019-01-01 17:38:28 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(50): error(8, 'Trying to get p...', 'D:\\www\\qihuo1\\c...', 50, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(102): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:38:28 pid:1 Worker process terminated
+2019-01-01 17:57:03 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(58): error(8, 'Array to string...', 'D:\\www\\qihuo1\\c...', 58, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(103): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:57:03 pid:1 Worker process terminated
+2019-01-01 17:57:45 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(58): error(8, 'Array to string...', 'D:\\www\\qihuo1\\c...', 58, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(103): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 17:57:45 pid:1 Worker process terminated
+2019-01-01 18:25:11 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(57): error(8, 'Array to string...', 'D:\\www\\qihuo1\\c...', 57, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(101): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 18:25:11 pid:1 Worker process terminated
+2019-01-01 19:23:45 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(62): error(8, 'Array to string...', 'D:\\www\\qihuo1\\c...', 62, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(108): Workerman\Worker::runAll()
+#10 {main}
+2019-01-01 19:23:45 pid:1 Worker process terminated
+2019-01-02 09:35:37 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(169): error(8, 'Undefined varia...', 'D:\\www\\qihuo1\\c...', 169, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(236): Workerman\Worker::runAll()
+#10 {main}
+2019-01-02 09:35:37 pid:1 Worker process terminated
+2019-01-02 09:38:36 pid:1 exception 'Exception' with message 'error' in D:\www\qihuo1\console\models\Workerman\webSocket.php:8
+Stack trace:
+#0 D:\www\qihuo1\console\models\Workerman\webSocket.php(169): error(8, 'Undefined varia...', 'D:\\www\\qihuo1\\c...', 169, Array)
+#1 [internal function]: Data->{closure}(Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#2 D:\www\qihuo1\console\models\Workerman\Connection\TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\AsyncTcpConnection), '{"body":{"Stock...')
+#3 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #17)
+#4 D:\www\qihuo1\console\models\Workerman\Events\Select.php(294): call_user_func_array(Array, Array)
+#5 D:\www\qihuo1\console\models\Workerman\Worker.php(2321): Workerman\Events\Select->loop()
+#6 D:\www\qihuo1\console\models\Workerman\Worker.php(1315): Workerman\Worker->run()
+#7 D:\www\qihuo1\console\models\Workerman\Worker.php(1258): Workerman\Worker::forkWorkersForWindows()
+#8 D:\www\qihuo1\console\models\Workerman\Worker.php(507): Workerman\Worker::forkWorkers()
+#9 D:\www\qihuo1\console\models\Workerman\webSocket.php(236): Workerman\Worker::runAll()
+#10 {main}
+2019-01-02 09:38:36 pid:1 Worker process terminated
+2019-01-02 12:01:15 pid:1 Worker process terminated with ERROR: E_ERROR "Class 'Workerman\MySQL\Connection' not found in D:\www\qihuo1\console\models\Workerman\webSocket.php on line 47"

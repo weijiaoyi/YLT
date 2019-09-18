@@ -1,0 +1,15 @@
+# Helicon ISAPI_Rewrite configuration file
+# Version 3.1.0.104
+
+<IfModule mod_rewrite.c>
+Options +FollowSymLinks
+IndexIgnore */*
+RewriteEngine on
+
+# if a directory or a file exists, use it directly  
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# otherwise forward it to index.php  
+RewriteRule . index.php
+</IfModule>
